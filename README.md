@@ -10,3 +10,6 @@ Image Decryption is a reverse process of encryption in which the same encryption
 I have also designed a GUI so that the user can browse the file to input an image and provide a encryption key to encrypt the image and will be stored in the directory where you wish to save it the same encryption key can be used to decrypt the image to its initial state as the input image.
 
 The glimpses of the GUI are attached below:
+![Screenshot (212)](https://github.com/user-attachments/assets/63fe470b-b865-49e9-8acf-47a610aa9046)
+![Screenshot (213)](https://github.com/user-attachments/assets/29611555-84b3-43a0-921a-e9b08663fd68)
+
