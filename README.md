@@ -1,4 +1,4 @@
-Image Encryption & Decryption Using Pixel Manipulation
+#Image Encryption & Decryption Using Pixel Manipulation
 Image Encryption: Image Encryption is a method where pixel values of an image are altered using a specific encryption key.The key that is specified acts a security parameter so that the input image is embedded with noise that results in a encrypted image and which cannot be decrypted by unauthorized users to decrypt the initial or input image.
 
 Image Decryption: Image Decryption is a reverse process of encryption in which the same encryption key is used so that the altered pixel values are reverted to their orginal state which results in the input image as the output.
